@@ -1,6 +1,5 @@
 package by.htp.ticket.main;
 
-
 import by.htp.ticket.bean.TicketList;
 import by.htp.ticket.service.DataAnalysis;
 import by.htp.ticket.service.ReadingTicketJson;
