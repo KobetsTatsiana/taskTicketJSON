@@ -1,0 +1,38 @@
+{
+  "tickets": [{
+    "placeOfDeparture": "Владивосток",
+    "departureDate": "03.06.22",
+    "departureTime": "00:10",
+    "placeOfArrival": "Тель-Авив",
+    "arrivalDate": "03.06.22",
+    "arrivalTime": "14:10"
+  }, {
+    "placeOfDeparture": "Владивосток",
+    "departureDate": "03.06.22",
+    "departureTime": "09:20",
+    "placeOfArrival": "Тель-Авив",
+    "arrivalDate": "03.06.22",
+    "arrivalTime": "23:00"
+  }, {
+    "placeOfDeparture": "Владивосток",
+    "departureDate": "04.06.22",
+    "departureTime": "03:30",
+    "placeOfArrival": "Тель-Авив",
+    "arrivalDate": "04.06.22",
+    "arrivalTime": "17:10"
+  }, {
+    "placeOfDeparture": "Владивосток",
+    "departureDate": "05.06.22",
+    "departureTime": "05:00",
+    "placeOfArrival": "Тель-Авив",
+    "arrivalDate": "05.06.22",
+    "arrivalTime": "19:10"
+  }, {
+    "placeOfDeparture": "Тель-Авив",
+    "departureDate": "06.06.22",
+    "departureTime": "02:50",
+    "placeOfArrival": "Владивосток",
+    "arrivalDate": "06.06.22",
+    "arrivalTime": "18:10"
+  }]
+}
