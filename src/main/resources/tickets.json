@@ -34,5 +34,12 @@
     "placeOfArrival": "Владивосток",
     "arrivalDate": "06.06.22",
     "arrivalTime": "18:10"
+  }, {
+    "placeOfDeparture": "Москва",
+    "departureDate": "06.06.22",
+    "departureTime": "02:50",
+    "placeOfArrival": "Владивосток",
+    "arrivalDate": "06.06.22",
+    "arrivalTime": "03:10"
   }]
 }
